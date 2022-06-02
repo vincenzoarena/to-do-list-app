@@ -1,6 +1,6 @@
 # toDo List App
 
-**[Test this app yourself](github.io)**
+**[Test this app yourself](https://vincenzoarena.github.io/to-do-list-app/)**
 
 ---
 
