@@ -3,18 +3,27 @@
 **[Test this app yourself](https://vincenzoarena.github.io/to-do-list-app/)**
 
 ---
+### Light Mode
+![Screenshot from Project](./img/todo-list-app-light.png)
 
-![Screenshot from Project](./images/project.png)
+### Dark Mode
+![Screenshot from Project](./img/todo-list-app-dark.png)
 
 ---
 
 ### About Project
 
-This prototype App is a toDo List created using HTML, CSS, and JavaScript.
+This prototype App is a toDo List created using HTML, CSS, and JavaScript. This prototype has also a switch to go from the Light to the Dark Mode.
 
 ### How to use this Project
 
-WIP.
+Would you like to have a list of activities to do, or task to accomplish? Use my toDO List App! Enter your activities and save them by clicing on the "+" to add them to the list. Check them out after having them accomplished and then trash them once they are done. You can also choose if display:
+
+- all the tasks;
+- all the completed tasks;
+- all the uncompleted task.
+
+You can use this App both in Light and in Dark Mode. Switching between the two modes it is very easy, you just have to click on the sliding toggle.
 
 ##### Developed With
 
