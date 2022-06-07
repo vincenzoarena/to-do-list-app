@@ -17,7 +17,7 @@ This prototype App is a toDo List created using HTML, CSS, and JavaScript. This 
 
 ### How to use this Project
 
-Would you like to have a list of activities to do, or task to accomplish? Use my toDO List App! Enter your activities and save them by clicing on the "+" to add them to the list. Check them out after having them accomplished and then trash them once they are done. You can also choose if display:
+Would you like to have a list of activities to do, or task to accomplish? Use my toDO List App! Enter your activities and save them by clicking on the "+" to add them to the list. Check them out after having them accomplished and then trash them once they are done. You can also choose if display:
 
 - all the tasks;
 - all the completed tasks;
