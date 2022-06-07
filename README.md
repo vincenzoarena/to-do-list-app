@@ -49,11 +49,8 @@ LinkedIn: [Vincenzo Arena](https://www.linkedin.com/in/vincenzo-arena-032a064b/)
 
 ### Used Tools
 
-- [icons](https://)
-- [Canva](https://www.canva.com/)
-- [npm](https://www.npmjs.com/)
+- [Font Awesome - Icons](https://fontawesome.com/)
 - [Google Fonts](https://fonts.google.com/)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [ColorZilla](https://www.colorzilla.com/chrome/)
 
 ---
